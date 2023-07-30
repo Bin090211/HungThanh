@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-baloo: Baloo;
+  --font-figma-hand: "Figma Hand";
+
+  /* font sizes */
+  --font-size-77xl: 96px;
+  --font-size-131xl: 150px;
+  --font-size-181xl: 200px;
+  --font-size-29xl: 48px;
+  --font-size-281xl: 300px;
+  --font-size-21xl: 40px;
+  --font-size-45xl: 64px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray: #050606;
+  --color-gainsboro: rgba(217, 217, 217, 0.56);
+  --color-black: #000;
+}

@@ -1,0 +1,116 @@
+.black-texture-background-free-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 3151px;
+  height: 2100px;
+  object-fit: cover;
+}
+.vector-icon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  opacity: 0.05;
+}
+.design {
+  position: absolute;
+  height: 23.8%;
+  width: 40%;
+  top: 76.2%;
+  left: 20.85%;
+  display: inline-block;
+}
+.layer-1 {
+  position: absolute;
+  top: 807px;
+  left: 1386px;
+  width: 2470px;
+  height: 1248px;
+  overflow: hidden;
+  font-size: var(--font-size-181xl);
+  font-family: var(--font-figma-hand);
+}
+.z4297192266135-e53aa67854d944a-icon {
+  position: absolute;
+  top: 724px;
+  left: 234px;
+  width: 611px;
+  height: 916px;
+  object-fit: cover;
+}
+.z4297192248569-fb0cb2c4e1e21bd-icon,
+.z4297192261388-5e24cef6297ec2f-icon {
+  position: absolute;
+  top: 1301px;
+  left: 928px;
+  width: 916px;
+  height: 611px;
+  object-fit: cover;
+}
+.z4297192248569-fb0cb2c4e1e21bd-icon {
+  top: 294px;
+  width: 611px;
+  height: 916px;
+}
+.chp-nh-sn,
+.products-photography {
+  position: absolute;
+  top: 568px;
+  left: 1714px;
+  display: inline-block;
+  width: 687px;
+  height: 261px;
+}
+.chp-nh-sn {
+  top: 75px;
+  font-size: var(--font-size-131xl);
+  width: 951px;
+  height: 437px;
+}
+.trang-6-child,
+.trang-6-item {
+  position: absolute;
+  top: 1915px;
+  left: 105px;
+  background-color: var(--color-gainsboro);
+  width: 189px;
+  height: 108px;
+}
+.trang-6-item {
+  left: 351px;
+}
+.div,
+.div1 {
+  position: absolute;
+  top: 1906px;
+  left: 164px;
+  font-family: var(--font-inter);
+  color: var(--color-gray);
+  display: inline-block;
+  width: 69px;
+  height: 127px;
+  cursor: pointer;
+}
+.div1 {
+  top: 1904px;
+  left: 418px;
+  height: 126px;
+}
+.trang-6 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 2100px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-77xl);
+  color: var(--color-white);
+  font-family: var(--font-baloo);
+}

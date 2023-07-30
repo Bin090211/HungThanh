@@ -1,0 +1,105 @@
+.vector-icon2 {
+  position: absolute;
+  height: 59.95%;
+  width: 83.94%;
+  top: 42.1%;
+  right: 16.06%;
+  bottom: -2.05%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  opacity: 0.2;
+}
+.mockup-tap-chi-adv-1,
+.mockup-tap-chi-adv-2-1 {
+  position: absolute;
+  top: 195px;
+  left: 381px;
+  width: 1155px;
+  height: 771px;
+  object-fit: cover;
+}
+.mockup-tap-chi-adv-1 {
+  top: 1055px;
+  left: 165px;
+  height: 808px;
+}
+.catalogue-design,
+.thit-k-n {
+  position: absolute;
+  display: inline-block;
+}
+.catalogue-design {
+  top: 848px;
+  left: 1840px;
+  width: 550px;
+  height: 498px;
+}
+.thit-k-n {
+  top: 140px;
+  left: 1832px;
+  font-size: var(--font-size-131xl);
+  width: 1115px;
+}
+.phn-mm-s2 {
+  position: absolute;
+  top: 56.05%;
+  left: 61.95%;
+  font-size: var(--font-size-29xl);
+}
+.image-1-icon2,
+.image-3-icon {
+  position: absolute;
+  top: 1286px;
+  left: 2049px;
+  width: 193px;
+  height: 120px;
+  object-fit: cover;
+}
+.image-3-icon {
+  top: 1293px;
+  left: 1807px;
+  width: 182px;
+  height: 113px;
+}
+.trang-3-child,
+.trang-3-item {
+  position: absolute;
+  top: 1874px;
+  left: 2390px;
+  background-color: var(--color-gainsboro);
+  width: 189px;
+  height: 108px;
+}
+.trang-3-item {
+  left: 2636px;
+}
+.div6,
+.div7 {
+  position: absolute;
+  top: 1865px;
+  left: 2449px;
+  font-family: var(--font-inter);
+  color: var(--color-gray);
+  display: inline-block;
+  width: 69px;
+  height: 127px;
+  cursor: pointer;
+}
+.div7 {
+  top: 1863px;
+  left: 2703px;
+  height: 126px;
+}
+.trang-3 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 2100px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-77xl);
+  color: var(--color-black);
+  font-family: var(--font-baloo);
+}

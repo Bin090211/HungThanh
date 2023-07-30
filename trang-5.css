@@ -1,0 +1,104 @@
+.mockup-brand-1 {
+  position: absolute;
+  top: 207px;
+  left: 312px;
+  width: 2703px;
+  height: 1801px;
+  object-fit: cover;
+}
+.layer-1-icon {
+  position: absolute;
+  top: 1421px;
+  left: 0;
+  width: 1169px;
+  height: 578px;
+  overflow: hidden;
+}
+.system-design-brand,
+.thit-k-b {
+  position: absolute;
+  left: 124px;
+  display: inline-block;
+}
+.thit-k-b {
+  top: 123px;
+  font-size: var(--font-size-131xl);
+  width: 1086px;
+  height: 540px;
+}
+.system-design-brand {
+  top: 832px;
+  width: 883px;
+  height: 580px;
+}
+.phn-mm-s {
+  position: absolute;
+  top: 60.1%;
+  left: 6.09%;
+  font-size: var(--font-size-29xl);
+}
+.image-1-icon,
+.image-2-icon {
+  position: absolute;
+  height: 5.71%;
+  width: 6.5%;
+  top: 65.67%;
+  right: 88.52%;
+  bottom: 28.62%;
+  left: 4.98%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.image-2-icon {
+  height: 12.24%;
+  width: 8.05%;
+  top: 62.95%;
+  right: 80.13%;
+  bottom: 24.81%;
+  left: 11.82%;
+}
+.trang-5-child,
+.trang-5-item {
+  position: absolute;
+  height: 5.14%;
+  width: 6.36%;
+  top: 90.52%;
+  right: 11.89%;
+  bottom: 4.33%;
+  left: 81.75%;
+  background-color: var(--color-gainsboro);
+}
+.trang-5-item {
+  right: 3.6%;
+  left: 90.03%;
+}
+.div2,
+.div3 {
+  position: absolute;
+  height: 6.05%;
+  width: 2.32%;
+  top: 90.1%;
+  left: 83.74%;
+  font-family: var(--font-inter);
+  color: var(--color-gray);
+  display: inline-block;
+  cursor: pointer;
+}
+.div3 {
+  height: 6%;
+  top: 90%;
+  left: 92.29%;
+}
+.trang-5 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 2100px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-77xl);
+  color: var(--color-black);
+  font-family: var(--font-baloo);
+}

@@ -1,0 +1,136 @@
+.black-texture-background-free-icon1,
+.milk-poster-1,
+.milk-poster-2-1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 3151px;
+  height: 2100px;
+  object-fit: cover;
+}
+.milk-poster-1,
+.milk-poster-2-1 {
+  top: 177px;
+  left: 191px;
+  width: 931px;
+  height: 1316px;
+}
+.milk-poster-2-1 {
+  top: 1050px;
+  left: 1271px;
+  width: 1316px;
+  height: 931px;
+}
+.vector-icon1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: -18.87%;
+  bottom: 0;
+  left: 18.87%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  opacity: 0.05;
+}
+.layer-1-child,
+.layer-1-item {
+  position: absolute;
+  height: 8.65%;
+  width: 7.65%;
+  top: 90.54%;
+  right: 69.31%;
+  bottom: 0.8%;
+  left: 23.04%;
+  background-color: var(--color-gainsboro);
+}
+.layer-1-item {
+  right: 59.35%;
+  left: 33%;
+}
+.div4 {
+  height: 10.18%;
+  width: 2.79%;
+  top: 89.82%;
+  left: 25.43%;
+  display: inline-block;
+  cursor: pointer;
+}
+.div4,
+.div5,
+.layer-11 {
+  position: absolute;
+}
+.div5 {
+  height: 10.1%;
+  width: 2.79%;
+  top: 89.66%;
+  left: 35.71%;
+  display: inline-block;
+  cursor: pointer;
+}
+.layer-11 {
+  top: 733px;
+  left: -466px;
+  width: 2470px;
+  height: 1248px;
+  overflow: hidden;
+  color: var(--color-gray);
+  font-family: var(--font-inter);
+}
+.product-packaging-design {
+  position: absolute;
+  top: 115px;
+  left: 2259px;
+  display: inline-block;
+  width: 776px;
+  height: 448px;
+}
+.thit-k-bao {
+  position: absolute;
+  top: 59px;
+  left: 1439px;
+  font-size: var(--font-size-131xl);
+  display: inline-block;
+  width: 746px;
+}
+.phn-mm-s1 {
+  position: absolute;
+  top: 34.9%;
+  left: 49.56%;
+  font-size: var(--font-size-29xl);
+}
+.image-1-icon1,
+.image-2-icon1 {
+  position: absolute;
+  height: 5.71%;
+  width: 6.5%;
+  top: 40.48%;
+  right: 45.05%;
+  bottom: 53.81%;
+  left: 48.45%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.image-2-icon1 {
+  height: 12.24%;
+  width: 8.05%;
+  top: 37.76%;
+  right: 36.67%;
+  bottom: 50%;
+  left: 55.29%;
+}
+.trang-4 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 2100px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-77xl);
+  color: var(--color-white);
+  font-family: var(--font-baloo);
+}

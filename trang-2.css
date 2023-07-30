@@ -1,0 +1,140 @@
+.black-texture-background-free-icon2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 3151px;
+  height: 2100px;
+  object-fit: cover;
+}
+.vector-icon3 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  opacity: 0.05;
+}
+.design1 {
+  position: absolute;
+  height: 23.8%;
+  width: 40%;
+  top: 72.2%;
+  left: 20.69%;
+  display: inline-block;
+}
+.layer-12 {
+  position: absolute;
+  top: 848px;
+  left: 1401px;
+  width: 2470px;
+  height: 1248px;
+  overflow: hidden;
+  font-size: var(--font-size-181xl);
+  font-family: var(--font-figma-hand);
+}
+.poster-ad-1,
+.poster-nq-1 {
+  position: absolute;
+  top: 343px;
+  left: 135px;
+  width: 772px;
+  height: 1092px;
+  object-fit: cover;
+}
+.poster-nq-1 {
+  top: 827px;
+  left: 786px;
+  width: 820px;
+}
+.poster-design,
+.thit-k-poster {
+  position: absolute;
+  top: 283px;
+  left: 2428px;
+  display: inline-block;
+  width: 416px;
+  height: 351px;
+}
+.thit-k-poster {
+  top: 227px;
+  left: 1687px;
+  font-size: var(--font-size-131xl);
+  width: 701px;
+  height: 448px;
+}
+.phn-mm-s3 {
+  position: absolute;
+  top: 33.48%;
+  left: 56.8%;
+  font-size: var(--font-size-29xl);
+}
+.image-1-icon3,
+.image-2-icon2 {
+  position: absolute;
+  height: 5.71%;
+  width: 6.5%;
+  top: 39.05%;
+  right: 37.81%;
+  bottom: 55.24%;
+  left: 55.69%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.image-2-icon2 {
+  height: 12.24%;
+  width: 8.05%;
+  top: 36.33%;
+  right: 29.43%;
+  bottom: 51.43%;
+  left: 62.53%;
+}
+.trang-2-child,
+.trang-2-item {
+  position: absolute;
+  height: 5.14%;
+  width: 6.36%;
+  top: 91.81%;
+  right: 90.74%;
+  bottom: 3.05%;
+  left: 2.9%;
+  background-color: var(--color-gainsboro);
+}
+.trang-2-item {
+  right: 82.46%;
+  left: 11.18%;
+}
+.div8,
+.div9 {
+  position: absolute;
+  height: 6.05%;
+  width: 2.32%;
+  top: 91.38%;
+  left: 4.88%;
+  font-family: var(--font-inter);
+  color: var(--color-gray);
+  display: inline-block;
+  cursor: pointer;
+}
+.div9 {
+  height: 6%;
+  top: 91.29%;
+  left: 13.43%;
+}
+.trang-2 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 2100px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-77xl);
+  color: var(--color-white);
+  font-family: var(--font-baloo);
+}
